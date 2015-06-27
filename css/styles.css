@@ -1,0 +1,176 @@
+p {
+	font-family: impact	;
+}
+
+h1{
+	font-family: impact;
+}
+
+li{
+	list-style: none;
+}
+
+
+span.glyphicon{
+	font-size: 50px;
+}
+span.glyphicon-usd{
+	color:green;
+}
+
+span.glyphicon-earphone{
+	color:red;
+}
+
+span.glyphicon-thumbsup{
+	color:blue;
+}
+
+.save{
+	color: green;
+	font-weight:bold;
+}
+
+.navbar-absolute-bottom {
+	position: relative;
+	bottom:0;
+	width:100%;
+	margin:0;
+	padding:20px;
+}
+
+.main{
+	margin-bottom: 50px;
+	padding-bottom: 50px;
+	/* offset-x | offset-y | blur-radius | color */
+	box-shadow: 0px 0px 10px black;}
+
+p.contact{
+	line-height: 0.5px;
+}
+
+.special-offer{
+	background-color: red;
+	margin-bottom: 20px;
+}
+.special-offer h4 {
+	color: white;
+}
+
+.highlight img{
+	background-color: #eee;
+}
+
+#hot-deals{
+	background-color: yellow;
+	width:23%;
+	padding:10px;
+	margin-bottom: 20px;
+}
+
+.heading{
+	background-color: #eee;
+	padding:20px;
+	margin: 20px 0 0 0;
+}
+
+.contact{
+	margin-top: 20px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	background-color: #eee;
+	padding: 20px
+
+}
+
+.left-contact{
+	padding:20px;
+	border-right: 1px solid #ddd;
+}
+
+.glyphicon-phone-alt{
+	border: 5px solid black;
+	padding:20px;
+	border-radius: 100%
+}
+
+.name {
+	border: 1px solid #ddd;
+}
+.message{
+	width:400px;
+	height:100px;
+	border:1px solid #ddd;
+	background-color: #fff;
+}
+
+.container .jumbotron{
+	padding:0;
+	margin-bottom:50px;
+	overflow: hidden;
+	position: relative;
+	height: 300px;
+
+}
+
+.container .jumbotron h1{
+	position: absolute;
+	top:20px;
+	font-family: impact;
+	padding: 20px;
+	color: white;
+	text-shadow: 1px 1px 10px black; 
+}
+.container .jumbotron h2{
+	position: absolute;
+	top:60px;
+	font-size: 100px;
+	font-family: Times;
+	font-weight: bold;
+	padding: 20px;
+	color:  #ff4c4c;
+	font-weight: bold;
+	text-shadow: 1px 1px 10px white; 	
+	z-index: 9999;
+}
+.container .jumbotron h2.jumbo{
+	position: absolute;
+	top:130px;
+	font-size: 100px;
+	font-family: Times;
+	font-weight: bold;
+	padding: 20px;
+	color:  #FFF;
+	font-weight: bold;
+	text-shadow: 1px 1px 10px white; 	
+}
+.container .jumbotron span{
+	position: absolute;
+	top:140px;
+	left:-10px;
+	font-family: Times;
+	font-weight: bold;
+	padding: 20px;
+	color:  #fff;
+	font-weight: bold;
+	z-index: 9999;
+	
+}
+
+.container .jumbotron img{
+	position: relative;
+	left:0;
+	bottom: 50px;
+}
+
+.middle-col{
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+}
+
+.navbar-brand{
+	font-family: times;
+}
+button{
+	margin-right: 10px;
+}
